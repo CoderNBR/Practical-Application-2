@@ -67,7 +67,17 @@ The attributes of this data set include:
 1. [Distribution of Residuals of Ridge Regression with Polynomial Features](https://github.com/CoderNBR/Practical-Application-2/blob/main/images/ResDistRidgeRegwithPF.png)
 2. [Distribution of Residuals of Ridge Regression with Sequential Features](https://github.com/CoderNBR/Practical-Application-2/blob/main/images/ResDistRidgeRegwithSF.png)
 3. [Distribution of Residuals of Lasso Regression with Sequential Features](https://github.com/CoderNBR/Practical-Application-2/blob/main/images/RedDistLassoRegwithSF.png)
+
   
+## Evaluation
+The results from different regression is as follows:
+
+<img width="376" alt="{0990A17B-2C52-4D60-81FD-C0CFAA23EB76}" src="https://github.com/user-attachments/assets/c2c49069-d445-4d6d-b7ca-44448d8e757f">
+
+
+This tells that the the Ridge Regression with polynomial features is working the best here.
+
+
 ## Conclusion & Recommendation
 
 Based on the analysis and results, the best model is the Ridge Regression with polynomial features. The best features for this model are:
